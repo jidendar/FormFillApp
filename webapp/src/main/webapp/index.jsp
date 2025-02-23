@@ -13,8 +13,8 @@
     <input type="text" placeholder="Enter Mother Name" name="Mother name" id="Mother name" required>
     <br>
     
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <label for="Sister name"><b>Sister Name</b></label>
+    <input type="text" placeholder="Enter Sister  Name" name="Sister name" id="Sister name" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
